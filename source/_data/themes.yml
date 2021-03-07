@@ -3475,3 +3475,9 @@
     - clean
     - 文档
     - 简约
+- name: Leedom
+  description: A concise theme with 3 color styles.
+  link: https://github.com/leedom92/hexo-theme-leedom
+  preview: https://blog.leedom.me/
+  tags:
+    - Simple
